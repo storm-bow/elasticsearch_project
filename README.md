@@ -4,6 +4,7 @@ The first part is stored inside the part1 folder and the second inside the part2
 
 Its part has a setup and a search file. To run the search file you must first run the setup file.
 Before anything you must have installed the elastic search in your PC and have it running. 
+First unzip the BX-Books zip that is stored inside the Data folder.
 For both parts you must first run the setup files that will create the indeces needed and create the required files.
 To run the second part you must first run the setup file from the first part and then the setup from the second part !
 Both files have a file called indeces_creator, this file contains a function called create that is used by the setup files
