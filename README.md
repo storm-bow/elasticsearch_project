@@ -6,7 +6,8 @@ Its part has a setup and a search file. To run the search file you must first ru
 Before anything you must have installed the elastic search in your PC and have it running. 
 For both parts you must first run the setup files that will create the indeces needed and create the required files.
 To run the second part you must first run the setup file from the first part and then the setup from the second part !
-
+Both files have a file called indeces_creator, this file contains a function called create that is used by the setup files
+to create the required elastic search indeces.
 What is this project ?
 
 I have created 2 simulations of a book's search engine if I can call it that way. There are 3 files that I started with, one csv 
